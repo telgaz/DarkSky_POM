@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11762" started-at="2020-08-14T22:22:18 EDT" finished-at="2020-08-14T22:22:30 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11762" started-at="2020-08-14T22:22:18 EDT" finished-at="2020-08-14T22:22:30 EDT">
+      <class name="com.qa.darksy.tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.darksy.tests.HomePageTest@10bbd20a]" name="setup" is-config="true" duration-ms="3406" started-at="2020-08-14T22:22:18 EDT" finished-at="2020-08-14T22:22:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.qa.darksy.tests.HomePageTest@10bbd20a]" name="verifyPageTitleTest" duration-ms="2024" started-at="2020-08-14T22:22:22 EDT" finished-at="2020-08-14T22:22:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="compareMinDegreesTest()[pri:2, instance:com.qa.darksy.tests.HomePageTest@10bbd20a]" name="compareMinDegreesTest" duration-ms="4132" started-at="2020-08-14T22:22:24 EDT" finished-at="2020-08-14T22:22:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareMinDegreesTest -->
+        <test-method status="PASS" signature="compareMaxDegressTest()[pri:3, instance:com.qa.darksy.tests.HomePageTest@10bbd20a]" name="compareMaxDegressTest" duration-ms="2056" started-at="2020-08-14T22:22:28 EDT" finished-at="2020-08-14T22:22:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareMaxDegressTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.darksy.tests.HomePageTest@10bbd20a]" name="tearDown" is-config="true" duration-ms="99" started-at="2020-08-14T22:22:30 EDT" finished-at="2020-08-14T22:22:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.darksy.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
